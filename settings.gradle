@@ -1,0 +1,4 @@
+include ':cameralib'
+include ':image_edite'
+include ':app'
+rootProject.name = "CameraApp"
